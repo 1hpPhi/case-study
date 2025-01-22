@@ -71,13 +71,13 @@ Additional Features:
 
 1. Clone the repository:
 
-    
-    git clone <repository-url>
+    ```bash
+    git clone https://github.com/1hpPhi/case-study
 
 2. Navigate to the project directory:
 
-    
-    cd <repository-directory>
+    ```bash
+    cd case-study
 
 3. Configure the database:
 
