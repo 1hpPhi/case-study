@@ -73,11 +73,12 @@ Additional Features:
 
     ```bash
     git clone https://github.com/1hpPhi/case-study
-
+   ```
 2. Navigate to the project directory:
 
     ```bash
     cd case-study
+   ```
 
 3. Configure the database:
 
