@@ -160,9 +160,9 @@ Retrieve Player Stats:
 
 ![EER Diagram](https://github.com/1hpPhi/case-study/blob/main/src/main/webapp/pub/images/EERDiagram.PNG?raw=true)
 
-![homePage](https://github.com/1hpPhi/case-study/blob/main/src/main/webapp/pub/images/gameHome.PNG?raw=true)
+![homePage](https://github.com/1hpPhi/case-study/blob/main/src/main/webapp/pub/images/homePage.PNG?raw=true)
 
-![gameHome](https://github.com/1hpPhi/case-study/blob/main/src/main/webapp/pub/images/homePage.PNG?raw=true)
+![gameHome](https://github.com/1hpPhi/case-study/blob/main/src/main/webapp/pub/images/gameHome.PNG?raw=true)
 
 ![gamePlay](https://github.com/1hpPhi/case-study/blob/main/src/main/webapp/pub/images/gamePlay.PNG?raw=true)
 
