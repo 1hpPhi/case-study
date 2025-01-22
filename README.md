@@ -84,11 +84,11 @@ Additional Features:
     
     Update application.properties with your MySQL database details:
 
-    spring.datasource.url=jdbc:mysql://localhost:3306/<your-database>
+        spring.datasource.url=jdbc:mysql://localhost:3306/<your-database>
 
-    spring.datasource.username=<your-username>
+        spring.datasource.username=<your-username>
 
-    spring.datasource.password=<your-password>
+        spring.datasource.password=<your-password>
 
 4. Run the application:
 
